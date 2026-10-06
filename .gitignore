@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Hugging Face / local models
+models/
+*.gguf
+*.safetensors
+*.bin
+.cache/
+
+# Next.js frontend
+frontend-next/node_modules/
+frontend-next/.next/
+frontend-next/out/
+
+# Logs and generated data
+*.log
+scripts/logs/
+scripts/downloaded_pdfs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+.env

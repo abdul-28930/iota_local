@@ -1,0 +1,932 @@
+﻿chunk_id,document_name,language,question,source_preview
+335,osmacc-en,en,What specific cybersecurity training and awareness programs must be implemented for personnel managing the organization's social media accounts?,"Organizations’ Social Media Accounts Cybersecurity Controls Sharing Notice: In addition to the subcontrols within control 1-9-4 in the ECC, the cybersecurity require-
+ments for personnel responsible for managing the organization’s social media accounts should include at least the following: 1-3-1-1 "
+990,6e58f002-1031-4116-b1d4-fd26c9840e7d__D9_85_D9_84_D8_AD_D9_82-_D8_A7_D9_84_D9_85_c75f9f66,en,What are the specific references and standards that must be followed for the cybersecurity controls of operating systems according to the Saudi regulatory framework?,"5ق إشارة المشاركة: ملحق المنهجية والمواءمة لضوابط الأمن السيبراني للأنظمة التشغيلية
+ااه
+‎SA-2b, SA- 005-R1, ISBR 4 AC-17, PR.AC-5, SR 5.1 NET 1.1 |-1-€-f‏
+‎2e, SA-2j 006-R1 SC-7 PR.PT-4 (all), SR‏
+‎(all)‏ 5.2
+‎CPM-3 005-R1, ISBR 4 SC-7 PR.AC-5, SR 5.1 ZCR 3.2 NET 1.1, f-|-€-f‏
+‎(all) 006-R1 PR.PT-4 "
+188,ncs_en,en,What are the two strength levels defined in the National Cryptographic Standards?,"The National Cryptographic Standards Sharing Notice: ‎Introduction‏ © م ‎1.1 Scope
+The National Cryptographic Standards (NCS - 1: 2020) defines the minimum cryptography
+requirements to be met by national entities when using cryptography to protect data (in ‎use, at rest and in transit), systems and "
+659,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What specific steps should be taken to manage access identities and permissions for IoT assets to ensure they are only accessible to authorized users?,"Cybersecurity Guidelines for Internet of Things 0 Cybersecurity Defense Asset Management To ensure that the organization has an accurate and detailed inventory of IoT assets in order to
+maintain their confidentiality, integrity and availability, in alignment with the organization’s cybersecurity and"
+203,ncs_en,en,What are the accepted algorithms and key length requirements for Root CA certificates?,"ms = Sharing Notice: The National Cryptographic Standards ‎Public Key Infrastructure (PKI)‏ © ب ‎5.1 Algorithms for Certificates
+Accepted algorithms for Root CA certificates:
+e RSA
+. At least 4096 bits for key length. e Elliptic Curve Cryptography (ECC)
+. NIST P-384, NIST P-521, Curve448, BrainpoolP"
+759,6b746a5a-c354-47e2-8a13-a4fb9b417d0c_Cybersecurity_Steering_Committee_Regulating_71de34bf,en,What is the classification level for information that can be shared with all employees of the organization?,"Cybersecurity Steering Committee Regulating Document
+Template
+6- Information among CSC members is shared using a traffic light protocol
+(TLP) in order to enable secure information governance. All information
+shared in CSC must be classified and clearly marked in accordance with
+the following color-c"
+261,cybersecurity_event_logs_and_monitoring_management_standard_template_v1.0,en,What controls must be enforced for application logs or transaction records containing 2-19 data classified as Top Secret?,"Centralized logging solutions shall be treated as if they contain,
+at a minimum, entity name>’s Secret and Restricted data,
+and as if they comply with all relevant confidentiality controls. ‎Ayla‏ يجب فرض الضوابط المطلوبة لهذا النوع من البيانات. ‎For any application log or transaction record(s) that"
+211,ncs_en,en,What is a Certification Authority (CA) and what is its role in managing public key certificates?,"The National Cryptographic Standards Sharing Notice: 7.4 Definitions Table 2- Terms and Definitions” Terms Definitions Revocation List Asymmetric A cryptographic algorithm that uses one cryptographic key for encryption, Algorithm and another key for decryption. The two keys are called private and pu"
+2214,scywf_en,en,What specific tasks and knowledge areas does a Secure Software Assessor in the Saudi Cybersecurity Workforce Framework need to assess the security of computer applications and software?,"mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+Job Role Details
+Job Role Name Secure Software Assessor
+Job Role ID CARD-CRD-003
+Category Cybersecurity Architecture, Research and Development
+Specialty Area Cybersecurity Research and Development
+Job Role Assesses the security of "
+1577,otcc_en,en,What are the specific requirements for managing identity and access in an operational technology/industrial control systems environment according to the document?,"Operational Technology Cybersecurity Controls Sharing Indicator: |
+Control level
+Controls
+Ll L2 13
+In addition to subcontrols in ECC control 2-2-3, cybersecurity re-
+quirements for identity and access management in OT/ICS envi-
+ronment must include, at a minimum, the following:
+2-2-1-1 Identity and "
+1129,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What is the purpose of the Security Testing process in the context of ensuring systems and applications are secure and free from vulnerabilities?,"Essential Cybersecurity Controls
+oO rr
+q Protecting, hardening, and configuring the settings of computers,
+ecure
+; ; systems, applications, network devices, and security devices to resist
+Configuration and oe ; ;
+1206 cyber-attacks, such as disabling or changing manufacturing and default
+ardenin
+2 a"
+1582,otcc_en,en,"What are the specific cybersecurity requirements for protecting system and processing facilities in the OT/ICS environment, and how are their implementations evaluated for effectiveness?","2-3-1-13 Direct communications between the 01/105 environ- ment and external hosts must be detected and analyzed. With reference to the ECC control 2-3-4, the cybersecurity ‏تع‎
+‎quirements for system and processing facilities protection in OT/ 2-3-2 ICS environment must be reviewed, and their imple"
+1677,scyberedu_en,en,What are the specific degree programs in cybersecurity covered by the SCyber-Edu framework?,"This framework was developed by the NCA in cooperation and coordination with
+the Ministry of Education and the Education and Training Evaluation Commission. This framework contributes to setting the minimum curriculum requirements
+of cybersecurity higher education programs to assure their academic q"
+1791,scyberedu_en,en,What specific skills and knowledge should students acquire by completing the Web Application Security Knowledge Unit?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice: ee
+Web Application Security (WAS) Description This KU provides knowledge of technology, tools and practices
+related to web applications. It also provides skills to apply
+these tools and practices to develop and deploy secure web
+appl"
+1681,scyberedu_en,en,What is the difference between a cybersecurity major degree program and an IT related major degree program with a cybersecurity track according to the Saudi Cybersecurity Higher Education Framework?,"mums =85£Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+outcomes related to communication skills and values in the curricula. The SCyber- Edu sets the minimum core KUs that must be covered by the program and provides a list of elective KUs. Educational institutions can offer the "
+1684,scyberedu_en,en,What does the Saudi Cybersecurity Higher Education Framework specify as one of the key values that students should adhere to?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+2. 3
+‏ل لتحت‎
+2.1 Intermediate Diploma‘
+2.1.1 Program Descriptors
+Knowledge Skills Values, Autonomy and
+Responsibility
+. General and interrelat-| + Use a range of theoretical |+ Adhere to cybersecurity
+ed knowledge and under- and "
+2195,scywf_en,en,What is the unique ID used for each specialty area in Table 2 of the Saudi regulatory/cybersecurity document?,"Technologies (ICS/OT)
+Table 2 describes the SCyWF specialty areas and the categories to which they belong. Each specialty area has a
+unique ID composed of the first characters of the specialty area’s name (e.g. VA for Vulnerability Assessment). This is used alongside the category ID when creating jo"
+400,071d52fc-014b-4f15-84ce-1289f3f5c3a9_Operational-Technology-Cybersecurity-Contro_4409cda6,en,"What is the specific standard referenced for the ""Vulnerabilities Management"" section under the 2-9-1-2 sub-section?","OTCC Methodology and Mapping Annex Sharing Indicator: 2-7-1 DATA 1.7 - SR3.1  PR.DS-1, | SC-13 - - -
+(all), SR © PR.DS-2
+4.1 (all),
+SR 4.3
+2-7-2 DATA 1.7 - SR3.1  PR.DS-1, | SC-13 - - -
+(all, SR PR.DS-2
+4.1 (all),
+SR 4.3
+2-8 Backup and Recovery Management
+Standards
+oTcc
+DOEC2M2 NERCCIP NOG 104 NIST "
+2297,scywf_en,en,What steps should be taken to ensure compliance with privacy practices across the organization?,"73027 Direct and oversee privacy specialists and coordinate privacy and data security programs with senior
+management to ensure consistency across the organization. T3028 Ensure compliance with privacy practices across the organization. 73029 Work with legal and HR teams to develop appropriate sanct"
+1794,scyberedu_en,en,What are the key references cited in the Saudi Cybersecurity Higher Education Framework for developing cybersecurity curricula?,"mums =85£Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+References
+o_O
+[1] National Qualifications Framework (NQF), Education and Training Evaluation
+Commission, 2020. [2] The National Centers of Academic Excellence in Cyber Defense (CAE-CD)
+Designation Program Guidance and Knowl"
+2335,scywf_en,en,"What are the specific knowledge areas required for the Saudi cybersecurity workforce framework, including job roles, tasks, and associated skills and abilities?","The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+KSA ID KSA Description K2003 Knowledge of developing computer-based training and e-learning courses. K2004 Knowledge of instructional design and evaluation models. K2005 Knowledge of training best practices. K2006 Knowledge of learnin"
+612,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,"What methods and procedures must be used to securely dispose of storage media that is no longer needed, as per the National Cryptographic Standards?","Data Cybersecurity Controls Sharing Indicator: Using secure and up-to-date
+cryptographic methods and algorithms
+when creating, storing, transmitting data,
+and for overall network communication
+medium; as per the requirements of the
+“moderate level” in the National
+Cryptographic Standards (NCS-1:2020"
+906,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What are the main domains and subdomains of cloud cybersecurity controls as outlined in the document?,"Cloud Cybersecurity Controls
+ea ‏مس م إ إ يإ ين‎
+Cloud Cybersecurity Controls Domains and Structure
+Main Domains and Subdomains
+Figure (2) below shows the Main Domains and Subdomains of controls. Cybersecurity Roles and oo. 1-1 ae 1-2 Cybersecurity Risk Management
+Responsibilities
+1- Cybersecurity C"
+962,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,"What is the full meaning of ""BCM"" in the context of the Cloud Cybersecurity Controls?","Cloud Cybersecurity Controls
+ee
+Annex No. (C): List of the Abbreviations
+Annex C below shows some of the abbreviations, and their meanings, used in the controls herein. List of Abbreviations
+Abb. | Full Version
+BCM Business Continuity Management
+CCC Cloud Cybersecurity Controls
+ECC Essential Cyberse"
+199,ncs_en,en,What TLS versions are considered acceptable for use with the strongest cryptographic primitives and schemes to ensure compatibility with Section 2 and 3 of the document?,"‎Accepted TLS versions: ‎e It is acceptable to use TLS version 1.2 cipher suites with the strongest cryptographic
+primitives and schemes to ensure compatibility with Section 2 and 3 in addition to ‎implementing a configuration that does not allow downgrading’. ‎” European Union Agency for Network an"
+1748,scyberedu_en,en,What are the key topics covered in the Knowledge Unit related to fraud prevention and detection under the Saudi Cybersecurity Higher Education Framework?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Fraud Prevention and Management (FPM)
+processes to prevent and mitigate fraud. Topics The following topics must be included in this KU: Fraud Introduction and Terminologies Fraud Prevention and Auditing: Scientific Method and
+Benf"
+2229,scywf_en,en,What legal services does a Cybersecurity Legal Specialist provide related to cyber laws and regulations?,"Job Role Name Cybersecurity Legal Specialist Job Role ID GRCL-LDP-001 Category Governance, Risk, Compliance and Laws Specialty Area Laws and Data Protection 0"" Provides legal services on topics related to cyber laws and regulations. Description Teele T0019, T0038, T1501, T3000, T3001, T3002, T3003, "
+2231,scywf_en,en,What is the job role name for a cybersecurity position that uses data from defense tools to analyze events and detect cyber threats?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+3.1.4 Category Group: Protection and Defense (PD)
+Job Role Details
+Job Role Name Cybersecurity Defense Analyst
+Job Role ID PD-D-001
+Category Protection and Defense
+Specialty Area
+Job Role Uses data collected from cyber defense tools t"
+603,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,What is the meaning of the controls codes shown in Figures 2 and 3 of the Data Cybersecurity Controls document?,"Data Cybersecurity Controls Sharing Indicator: — Figures (2) and (3) below show the meaning of controls codes: Data Cybersecurity Controls Version No. Year of Issuance Figure 2: Controls Coding Scheme | Sub-ControlNo. | Control No. [Main Control No. Control No. ‎No.‏ جيب
+‎[Main domain No. domain No."
+1686,scyberedu_en,en,What are the core knowledge units required for admission under the Saudi Cybersecurity Higher Education Framework?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice: a 2.1.2 Admission Requirements
+e High school diploma or equivalent. | 2.1.3 Core Knowledge Units ‏ؤ‎
+‎e Cybersecurity Foundations (CSF)
+e Cybersecurity Design Principles (CDP)
+e IT Systems Components (ISC)
+e Basic Networking (BNW)
+e "
+218,ncs_en,en,What is the full term for AEAD in the National Cryptographic Standards Sharing Notice?,"The National Cryptographic Standards Sharing Notice: 7.5 Acronyms
+Table 3- List of acronyms Acronym Full Term AEAD Authenticated Encryption with Associated Data
+AES Advanced Encryption Standards AH Authentication Header ALIKE Authenticated Lightweight Key Exchange
+ARLs Authority Revocation Lists CA "
+1085,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific cybersecurity requirements for reviewing secure configuration and hardening and updates packages before launching software products?,"Essential Cybersecurity Controls
+oo rrr
+The cybersecurity requirements for project management and information and
+technology asset changes within the entity shall include the following as a minimum:
+1-6-2 1.6.2.1 Vulnerability assessment and remediation. 1.6.2.2 Reviewing secure configuration and ha"
+1575,otcc_en,en,What specific training and qualifications must be provided to personnel with access to OT/ICS assets?,"It is also to ensure that personnel is provided with
+the required cybersecurity training, skills, and credentials needed to accomplish their
+cybersecurity responsibilities and to protect the organization’s OT/ICS assets. Control level
+Controls
+Ll L2 13
+In addition to subcontrols in the ECC control 1"
+2337,scywf_en,en,"Who are the individuals responsible for developing the organization's cybersecurity strategies, policies, and plans, and what are their contact details and expectations?","mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+KSA ID KSA Description K2500 Knowledge of the organization's local and wide area network connections and the risks they pose to
+its cybersecurity. K2501 Knowledge of best practices for reviewing and determining the suitability of t"
+67,cgesp-en,en,What is the governing law for the interpretation of this document?,"Disclaimer: The following controls will be governed by and implemented in ac- cordance with the laws of the Kingdom of Saudi Arabia, and must be subject to the exclusive jurisdiction of the courts of the Kingdom of Saudi Arabia. fore, the Arabic version will be the binding language for all matters r"
+70,cgesp-en,en,What is the purpose of the Cybersecurity Guidelines for E-commerce Service Providers developed by the National Cybersecurity Authority?,"WO Sharing Indicator: White Cybersecurity Guidelines for E-commerce Service Providers Executive Summary صتلللللللللللللسللللللىداأاسكااك ا E-commerce is considered one of the national transformation program’s goals, that support the
+achievement of the kingdom’s vision 2030. Saudi Arabia’s e-commerce"
+614,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,What steps must third-party vendors take to securely dispose of an organization's data at the end of the contract or in the event of contract termination?,"Data Cybersecurity Controls Sharing Indicator: Third-Party and Cloud Computing Cybersecurity 3-1 Third-Party Cybersecurity To ensure the protection of assets against the cybersecurity risks related to third parties including
+objective | outsourcing, managed services, and consultancy services as per "
+895,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What is the binding language for interpreting the Cloud Cybersecurity Controls document?,"Cloud Cybersecurity Controls
+Disclaimer: The following controls will be governed by and
+implemented in accordance with the laws of the Kingdom of Saudi
+Arabia and must be subject to the exclusive jurisdiction of the
+courts of the Kingdom of Saudi Arabia. Therefore, the Arabic
+version will be the bin"
+2403,telework_cybersecurity_controls-en,en,What specific requirements must be included in the cybersecurity controls for identity and access management related to telework systems?,"‎Sharing Notice: ' sir Telework Cybersecurity Controls‏ اله
+‎Cybersecurity Defense‏ | - ©
+‎Asset Management‏ 2-1
+‎Objective | To ensure that the organization has an accurate and detailed inventory of information and‏
+‎technology assets in order to support the organization’s cybersecurity and operati"
+2336,scywf_en,en,"What are the specific technical delivery options for cybersecurity training and exercising, and what are their limitations?","K2017 Knowledge of test and evaluation processes for learners. K2018 Knowledge of methods for designing curricula, teaching and instruction for individuals and groups. K2019 Knowledge of external organizations and academic institutions specializing in cybersecurity
+education and research and develop"
+2378,scywf_en,en,Can a cybersecurity professional demonstrate the ability to tailor a curriculum that covers cybersecurity topics at the appropriate level for the target audience?,‎A2009 Ability to determine the validity of workforce trend data. ‎A2010 Ability to design training in line with organizational standards and policies. ‎A2011 Ability to operate common network tools. ‎A2012 Ability to tailor curriculum that covers cybersecurity topics at the appropriate level for th
+214,ncs_en,en,What is the process of exchanging public keys to establish secure communications?,"Key Agreement | A key-establishment procedure where resultant keying material is a
+function of information contributed by two or more participants, so that
+no party can predetermine the value of the keying material independently
+of any other party’s contribution. Key Archive A function in the lifecy"
+205,ncs_en,en,How should public keys be transported and protected to ensure their authenticity?,"‎All copies of keys must be securely installed and stored. ‎Public keys must be transported and authenticity (but not privacy)
+must be protected by using certificates. ¢ Private keys must be protected and authorized by the owner/ third
+party or CA. Barker, “Recommendation for Key Management: Part 1 "
+948,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What is the definition of a Cloud Service Provider (CSP) in the context of this document?,"Is the delivery of various services via the Internet and can be accessible
+through different platforms (desktops, laptops, smart phones, etc.). Cloud Computing oe a Servi services include applications and infrastructures such as servers, databases, ervices
+and networking to support, among other thin"
+343,osmacc-en,en,What are the specific cybersecurity requirements that third-party providers must comply with to protect an organization's social media accounts?,Organizations’ Social Media Accounts Cybersecurity Controls Sharing Notice: © » Third Party and Cloud Computing Cybersecurity Third-Party Cybersecurity To ensure the protection of assets against the cybersecurity risks related to third-parties Objective | including outsourcing and managed services a
+2227,scywf_en,en,How do we analyze and assess the effectiveness of cybersecurity controls according to the Saudi regulatory framework?,"0"" Analyzes cybersecurity controls and assesses their effectiveness. Description Teele T0036, T0037, T0039, T0043, T0050, T0053, T0059, T0061, T0074, T0079, T2503, T2505,
+T2507, T2508, T2509, T2510, T2511, T2512, T2514, T2516
+K0001, 120002, 10003, K0004, K0005, K0006, K0007, K0008, 120009, K0010, 10"
+2356,scywf_en,en,What specific skills are required for developing data dictionaries according to the Saudi regulatory/cybersecurity document?,"$1001 Skill in conducting software debugging. $1002 Skill in creating and utilizing mathematical or statistical models. S1003 Skill in creating programs that validate and process multiple inputs including command line
+arguments, environmental variables and input streams. $1004 Skill in designing sec"
+2015,scywf_ar,en,"What are the specific responsibilities and tasks associated with the role of ""Security Development"" in the Saudi Cybersecurity Framework (Siyof)?","الإطار السعودي لكوادر الأمن السيبراني (سيوف) إشفارة المشاركة:
+تفاصيل الدور الوظيفي
+مسمى الدور الوظيفى ‎Glas‏ تطوير أمن النظه
+معرف الدور الوظيفى ‎CARD-CRD-001‏
+‏مجال التخصص البحث والتطوير في الأمن السيبراني
+: 0 تصميم ‎oi Gal‏ المعلومات وتطويره واختباره وتقييمه في كافة مراحل تطوير تلك
+وصف الدور الوظيف"
+2372,scywf_en,en,Can a cybersecurity professional demonstrate critical comprehension of documentation as part of their role in aligning with security policies?,"‎A0013 Ability to design architectures and frameworks in line with security policies. ‎A0014 Ability to source all data used in intelligence, assessment and planning activities. ‎A0015 Ability to demonstrate critical comprehension of documentation. ‎A0016 Ability to determine whether information is "
+1114,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific cybersecurity requirements for protecting an entity's data when using cloud computing and hosting services?,"In accordance with the relevant legislative and regulatory requirements, and
+in addition to the applicable controls in the Main Domains (1), (2), and (3)
+and Subdomain (4.1) that are necessary to protect the entity’s data or services
+provided thereto, cybersecurity requirements for use of cloud comp"
+1591,otcc_en,en,"What are the specific requirements for securing access, storage, and transfer of backups and their mediums in an OT/ICS environment?","| Sharing Indicator: Operational Technology Cybersecurity Controls
+Control level
+Controls
+In addition to subcontrols in the ECC control 2-9-3, cybersecuri-
+ty requirements for backup and recovery management in OT/ICS
+must include, at a minimum, the following: ‏بي | يي يب‎
+2-8-1-1 Backups for all 01/"
+2263,scywf_en,en,What specific cybersecurity functions should be applied to reduce exploitation opportunities?,"T0109 Review, conduct, or participate in audits of cyber programs and projects. T0110 Support the Chief Information Officer (CIO) in the formulation of cybersecurity policies. T0111 Work with stakeholders to resolve cybersecurity incidents and vulnerability compliance issues. 70112 Provide cybersecu"
+1940,scywfg_en,en,What are the job roles defined in the Saudi Cybersecurity Workforce Framework (SCyWF) and how are they aligned with the Saudi Standard Classification of Occupations?,"wm Sharing Notice: | pire Alignment Guide for the Saudi Cybersecurity Workforce Framework «SCyWF»>
+Introduction
+‏ه#مو‎ The Saudi Cybersecurity Workforce Framework (SCyWEF) categorizes cybersecurity work in Saudi
+Arabia, defines the job roles within each category and sets the requirements for each jo"
+1779,scyberedu_en,en,What methods should students be able to explain to isolate RF emissions according to the Saudi Cybersecurity Higher Education Framework Sharing Notice?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice:
+Radio Frequency Principles (RFP)
+Description This KU _ provides knowledge about radio frequency
+communications. Topics The following topics must be included in this KU: Basics of Electromagnetic Radiation Information Modulation Digit"
+1092,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the minimum cybersecurity requirements for identity and access management as specified in the document?,"5-15 Information and technology assets of the entity shall be classified, labeled, and handled
+as per the relevant legislative and regulatory requirements. 5-16 Cybersecurity requirements for managing information and technology assets of the
+entity shall be periodically reviewed. 2-2 Identity and Ac"
+928,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What is the frequency at which vulnerabilities in the external components of the Cloud Technology Stack must be assessed and remediated?,"2-9 Vulnerabilities Management
+Objective | To ensure timely detection and effective remediation of technical vulnerabilities to
+prevent or minimize the probability of exploiting these vulnerabilities to launch
+cyber attacks against the CSP and CST. 2-9-P-1 In addition to subcontrols in the ECC contr"
+2374,scywf_en,en,Can a cybersecurity professional demonstrate the ability to collaborate with leadership to develop a risk management strategy for cybersecurity-related risks?,"A0035 Ability to apply cybersecurity and privacy principles to organizational requirements. A0036 Ability to use intrusion detection technologies to detect host-based and network-based
+intrusions. A0037 Ability to work with the organization's leadership to provide a comprehensive, organization-
+wide"
+1112,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific cybersecurity requirements that third parties must follow when providing IT or cybersecurity outsourcing or managed services?,"4.1.2.3 Obligating the third party to apply the entity's cybersecurity
+requirements and policies and the relevant legislative and regulatory
+requirements. Cybersecurity requirements for contracts and agreements with third parties
+providing IT or cybersecurity outsourcing or managed services shall in"
+207,ncs_en,en,What cryptographic PRNG implementations are required for cryptographic applications according to the National Cryptographic Standards Sharing Notice?,"The National Cryptographic Standards Sharing Notice: @) ‏م‎ © Appendices 7.1 Pseudo Random Number Generation (PRNG)
+Pseudo Random Number Generation is required in several aspects of cryptography, including the creation of asymmetric key-pairs and symmetric keys”. Software library functions, such as "
+2358,scywf_en,en,What specific skills are required for developing policies that reflect the organization's business and cybersecurity strategic objectives under the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+KSA ID KSA Description S1025 Skill in designing the integration of technology processes and solutions, including legacy
+systems and modern programming languages. 51026 Skill in developing applications that can log and handle errors, e"
+662,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What steps should be taken to secure communication and connectivity to the internet for internet-facing IoT devices and services?,"2-4-3 Encrypt and authenticate data transactions between different IoT devices and services, as well as
+secure the underlying infrastructure, where applicable. 2-4-4 Implement logical and/or physical segregations between IoT environment and organization’s
+environment based on the organization’s cybe"
+1126,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What is the definition of penetration testing in the context of cybersecurity?,"A storage method whereby the backup is regularly taken on a remote
+Online Backup server over a network (either within the entity’s network or hosted by a
+service provider). ‏ب""‎ Individuals who work for the entity (including official employees,
+Organization Staff
+temporary employees, and contractors"
+2333,scywf_en,en,What specific knowledge related to software development in high-level languages is required under the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+KSA ID KSA Description K1025 Knowledge of applications that can log errors, exceptions and application faults. K1026 Knowledge of how to work with and use the output of R&D centers, think tanks, academic research
+and industry. K1027 K"
+2038,scywf_ar,en,What are the specific skills and competencies required for the role of a cybersecurity security officer in the Saudi regulatory framework?,"والمساعدة فى مهام الأمن السيبرانى. ‎T0005, T0009, T0026, 10028, T0102, T0113, T0136, T3500, T3501, T3503, lool‏
+‎T3504 5‏
+,10017 ,120014 ,10013 ,10009 ,120007 ,120006 ,120005 ,120004 ,120001
+المعااف ,10045 ,100043 ,100038 ,10035 ,10033 ,100031 ,120024 ,120020 ,120019
+‎J‏ ,100115 .100104 ,10084 ,1200"
+1087,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific requirements for documenting and presenting the results of cybersecurity audits and reviews to the cybersecurity supervisory committee and the Authorized Official?,"Essential Cybersecurity Controls
+o——— rrr
+The implementation of cybersecurity controls by the entity shall be reviewed and
+audited by parties other than the cybersecurity department at the entity, provided that 1-8-2 the audit and review are to be conducted independently while considering the princi"
+1651,scyber-edug_eng,en,What is the process for an educational institute to request alignment with the Saudi Cybersecurity for Higher Education (SCyber-Edu) framework?,"‎Sharing Notice: Alignment Guide for the Saudi Cybersecurity Higher Education Framework (SCyber-Edu)‏ = وض
+‎SCyber-Edu Alignment Process:‏
+‎a  wN~SBL‏ ها
+و
+‎ee |‏
+‎Self-Assessment‏ .1 |=
+‎Ly‏
+‏ف ‎ie‏
+‎u‏ =
+‎Fill 1.2 Share 1.3 Initial assessment‏ 1.1
+‎The educational institute completes the Through s"
+376,071d52fc-014b-4f15-84ce-1289f3f5c3a9_Operational-Technology-Cybersecurity-Contro_4409cda6,en,What is the relationship between OTCC and the ECC domain?,"OTCC Methodology and Mapping Annex Sharing Indicator: Table of Contents Design Principles of the Operational Technology Cybersecurity Controls Relationship to International Standards Design Methodology of Operational Technology Cybersecurity Controls (OTCC- 10
+1:2022) OTCC Main Domains and Subdomain"
+1664,scyber-edug_eng,en,What is the coverage status of the elective knowledge units in the SCyber-Edu framework?,"mum = Sharing Notice: 0000 Alignment Guide for the Saudi Cybersecurity Higher Education Framework (SCyber-Edu)
+De
+a
+ae
+eaten He
+} ‏”م‎ ee
+oy er
+' i]
+a 0 0 0 08 0 oO 8
+‏ا‎ 1 Qo 0 0 0 0 0 8 8
+1 1
+‏ا ا‎ oO 0 o 0 8 8 8 8
+1 i
+t 1
+' 8 8 8 0 8 8 8 8
+t
+0 0 0 0 8 0 8 8
+'
+; H 8 8 8 8 8 8 8 8
+| ‏ا‎ 8 0 80 0 o "
+986,6e58f002-1031-4116-b1d4-fd26c9840e7d__D9_85_D9_84_D8_AD_D9_82-_D8_A7_D9_84_D9_85_c75f9f66,en,What are the specific regulatory references and standards referenced in the cybersecurity control for operating system systems?,"م | ]3 ‎dl‏ 254 ملحق المنهجية والمواءمة لضوابط ‎Goll‏ السيبراني للأنظمة التشغيلية
+‎ACM-3a 003-81, 0 58810 0 CM-4 PR.IP-3 - - CM1.4 0 ١-0-١‏
+‎003-R2,‏
+‎010-R1,‏
+‎010-R2‏
+‏مدع 0 ‎ACM-4d 003-R1, ss ISBR10.~—sCM-3(2)~—s PRIIP-3 - - CM1.4‏
+‎003-R2,‏
+‎010-R1,‏
+‎010-R2‏
+‏سام 00 ‎003-R1,  ISBR10  IR-4(2) 0 "
+960,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What is the definition of a Third-Party in the context of Cloud Technology Security?,"A procedure or process to restore or control something that is suspended,
+Recovery
+damaged, stolen or lost. A system that manages and analyses security events logs in real time in
+Security Information ; ‏م""‎ ;
+order to provide monitoring of threats, analysis of the results of
+and Event ; . interrela"
+2290,scywf_en,en,What specific tasks are involved in designing and revising cybersecurity training curricula to ensure they align with organizational and workforce needs?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+TaskID ~~‘ Task Description T2040 Correlate training and learning to business or mission requirements. T2041 Create training courses tailored to the audience and physical or virtual environments. T2042 Deliver training courses tailore"
+23,cgec-en,en,What is the document classification for the cybersecurity guidelines for e-commerce consumers?,"Cybersecurity Guidelines for E-commerce Consumers Sharing Indicator: White 7- 7 Table of Contents © ‏ا‎
+‎Executive Summary Introduction Scope of Applicability Cybersecurity Guidelines for E-commerce Consumers
+Appendix A: Terms And Definitions ها =
+© تف كفك ‎MIO‏ Document Classification: Open"
+204,ncs_en,en,What is the maximum valid lifetime for private keys in the MODERATE category when using hardware cryptographic modules?,The National Cryptographic Standards Sharing Notice: ‎Key Lifecycle Management (KLM)‏ © م ‎6.1 Key Protection and Lifetime ‎Accepted key protection lifetime: ‎e Using Hardware cryptographic modules: Private keys should not be valid for more than 5 years (this does not limit CA ‎certificates’ lifetim
+14194,Fifty_Ninth_Annual_Report-EN,en,What is the requirement for data localization in the context of cloud service providers operating within Saudi Arabia?,"|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |"
+2362,scywf_en,en,What is the skill required for interpreting vulnerability scan results to identify vulnerabilities and their levels of criticality in relation to the organization?,"S2524 Skill in interpreting compiled and interpretive programming languages. $2525 Skill in effectively and efficiently interpreting metadata. 52526 Skill in effectively and efficiently interpreting the results from network analysis and
+reconstruction tools. 52527 Skill in interpreting vulnerability"
+1117,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What is the definition of Closed-Circuit Television (CCTV) as described in the document?,"Essential Cybersecurity Controls
+ee Backup Files, devices, data, and procedures available for use in case of failure
+or loss, or in case of deletion or suspension of their original copies. Bring Your Own This term refers to an entity's policy that allows (in whole or in part) Device (BYOD) its perso"
+186,ncs_en,en,What are the commonly used cryptographic protocols specified in the National Cryptographic Standards?,"The National Cryptographic Standards 4 Commonly Used Cryptographic Protocols
+4.1 IP Security (IPsec)
+4.2 Transport Layer Security (TLS)
+4.3 Domain Name System Security (DNSSEC)
+4.4 Secure Shell (SSH) 4.5 Bluetooth Sharing Notice: 4.6 Universal Mobile Telecommunications System (UMTS) / Long Term Evol"
+673,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,"What are the specific resiliency requirements that need to be defined, documented, approved, and implemented for IoT devices and associated components as part of the business continuity management plan?","Cybersecurity Guidelines for Internet of Things © )©( Cybersecurity Resilience 3-1 Cybersecurity Resilience Aspects of Business Continuity Management (BCM) To ensure the inclusion of IoT cybersecurity resiliency requirements within the overall business
+objective continuity management plan of the org"
+909,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,Who are the roles and responsibilities of the Authorizing Official in defining and approving cybersecurity roles and RACI assignments for all stakeholders of the cloud services?,"Cloud Cybersecurity Controls
+ss
+Cloud Cybersecurity Controls
+Details of Cloud Cybersecurity Controls
+© 9 Cybersecurity Governance
+1-1 Cybersecurity Roles and Responsibilities
+Objective | To ensure that the roles and responsibilities are defined for all parties participating
+in implementing the cloud"
+395,071d52fc-014b-4f15-84ce-1289f3f5c3a9_Operational-Technology-Cybersecurity-Contro_4409cda6,en,What are the specific standards and references cited in the document for the protection of system and processing facilities under the OTCC Methodology and Mapping Annex?,"Sharing Indicator: 2-2-1-11
+2-2-2 USER 1.2
+USER 1.2 PR.AC-1
+R.AC-1 OTCC Methodology and Mapping Annex System and Processing Facilities Protection 2-3-1-4
+2-3-1-5 2-3-1-11
+2-3-1-12
+2-3-1-13 COMP 1.1,
+COMP 2.2 COMP 1.1,
+USER 1.5,
+COMP 3 COMP 1.1,
+USER 1.5,
+COMP 3 NET 1.3,
+COMP 1.1,
+COMP 3.3,
+EVENT 1.1"
+1572,otcc_en,en,What are the specific cybersecurity requirements that must be included in the change management lifecycle for OT/ICS systems?,"‎Sharing Indicator: Operational Technology Cybersecurity Controls‏ ان""
+‎Cybersecurity requirements within the organizations OT/ICS‏
+‎change management lifecycle must be implemented. VivVviv‏ 1-5-2
+‎In addition to the ECC controls 1-6-2 and 1-6-3, cybersecurity‏
+‎requirements in OT/ICS change managem"
+22,cgec-en,en,What does the White classification indicate regarding the sharing of information?,"ME Sharing Indicator; White Cybersecurity Guidelines for E-commerce Consumers Traffic Light Protocol (TLP): This marking protocol is widely used around the world. It has four colors (traffic lights):
+© Red - Personal, Confidential and for Intended Recipient only The recipient has no rights to share "
+1788,scyberedu_en,en,What specific skills do students gain from completing the Systems Security Engineering Knowledge Unit?,"mums Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Systems Security Engineering (SSE) Description This KU provides skills to participate in the development
+of large-scale secure systems using related techniques and
+methods throughout the entire system life-cycle. Topics The foll"
+1666,scyber-edug_eng,en,What are the specific procedures for managing cyber risks and responding to cyber incidents as outlined in the Knowledge Unit on Cybersecurity Foundations?,"mum = Sharing Notice: 0000 Alignment Guide for the Saudi Cybersecurity Higher Education Framework (SCyber-Edu)
+Pleas il this sheet
+haar Core Knowledge Unites
+‏اماج اوه جلا لق‎ 0 a eT 2 ‏الماع‎ RTO ‏جه ماد تيا جح مان الاج تمي‎ ST ‏اجاج تاي لجو‎ Ta AST ‏حو‎ RT TEE CN
+1 '
+ك١.‎ ee SS ‏سود‎ |B]
+‏ا ا ا ا "
+1665,scyber-edug_eng,en,How are the course learning outcomes and topics in the program linked to the SCyber-Edu framework?,"‎Sharing Notice: Alignment Guide for the Saudi Cybersecurity Higher Education Framework (SCyber-Edu)‏ = وض Cybersecurity Higher Education Sheets (e.g. Intermediate Diploma)
+5.1. Automatically filled from step 4.7 entries in ‘Alignment’ sheet. Automatically filled from step 2.1 entries in “Program Ge"
+610,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,What are the specific cybersecurity requirements for data and information protection as outlined in the document?,"2-4 Data and Information Protection To ensure the confidentiality, integrity and availability of organization’s data and information as objective ‏ب ا‎ :
+per organizational policies and procedures, and related laws and regulations. Controls Data Classification Level
+In addition to the subcontrols in"
+328,osmacc-en,en,What are the minimum cybersecurity requirements for organizations using social media in Saudi Arabia?,"With the increase in the use of social networks officially by organizations inside the Kingdom to
+communicate with the beneficiaries, the risk of theft crimes of official social media accounts or misuse of them has increased. In addition, the risk of impersonation of official organizations in social"
+2193,scywf_en,en,What is the role of a Cybersecurity Policy Officer within the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: |) us
+Figure 2: The SCyWF Taxonomy
+Hos 2 Wa 0
+Cybersecurity Leadership and Governance, Risk, Protection and Industrial Control
+Architecture, Workforce Compliance and Defense Systems and
+Research and Development Laws | Defense Operational"
+391,071d52fc-014b-4f15-84ce-1289f3f5c3a9_Operational-Technology-Cybersecurity-Contro_4409cda6,en,What is the precedence given when there is a discrepancy between the OTCC document and other national and international standards referenced in the document?,"Sharing Indicator: International Standards Mapping to OTCC Controls
+es ©) OTCC Methodology and Mapping Annex In case of a discrepancy between the OTCC document and the other national and international standards referenced in this document, the OTCC must take precedence. © 9 Cybersecurity Governance "
+1741,scyberedu_en,en,What are the specific topics that must be included in the Database Management Systems Knowledge Unit?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice:
+Database Management Systems (DMS)
+wid This KU provides students with knowledge about main
+concepts of database management systems in addition to skills
+and abilities to utilize database management systems. Topics The following topics"
+2292,scywf_en,en,What specific tasks are involved in conducting cybersecurity authorization reviews and assurance case development for the initial installation of systems and networks?,"mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+TaskID ~~‘ Task Description T2504 Monitor and evaluate a system's compliance with cybersecurity, resilience and dependability
+requirements. T2505 Plan and conduct cybersecurity authorization reviews and assurance case development f"
+941,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What are the cloud cybersecurity controls for subdomains and their respective levels (Level 1 through Level 4)?,"Cloud Cybersecurity Controls
+ea ‏مس م إ إ يإ ين‎
+Subdomains and Level 1 Level 2 Level 3 Level 4
+Controls
+6With exception of subcontrol 2-15-P-3-1 as it is considered as optional
+7 With exception of Subcontrol 4-1-P-1-1 as it is considered as optional
+31
+Document classification: Public TLP: White"
+903,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What are the specific cybersecurity requirements that apply to cloud service providers (CSPs) and cloud service tenants (CSTs) in the Kingdom of Saudi Arabia?,"Cloud Cybersecurity Controls oo rr
+Scope of Work and Applicability
+CCC Scope of Work The cloud cybersecurity controls shall apply to the CSPs and CSTs. These controls
+represent the minimum cybersecurity requirements for cloud computing. CSPs within the scope of CCC are any CSP which provides cloud c"
+2359,scywf_en,en,What specific skill related to knowledge management is required for the certification?,$1503 Skill in using critical thinking to recognize organizational challenges and relationships. $2000 Skill in analyzing network traffic capacity and performance characteristics. $2001 Skill in using knowledge management technologies. Document Classification: Unclassified 100
+2192,scywf_en,en,What is the role of a Cybersecurity Policy Officer within the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: |) us
+Figure 2: The SCyWF Taxonomy
+Hos 2 Wa 0
+Cybersecurity Leadership and Governance, Risk, Protection and Industrial Control
+Architecture, Workforce Compliance and Defense Systems and
+Research and Development Laws | Defense Operational"
+1772,scyberedu_en,en,What specific skills do students gain from completing the Operating Systems Administration (OSA) knowledge unit?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice:
+Operating Systems Administration (OSA) Description This KU provides knowledge and skills to perform basic operations in operating systems administration. Topics The following topics must be included in this KU:
+1. OS Installation
+2. "
+761,677a6cc9-e520-4f41-ade1-49851e3060ca__D8_AF_D9_84_D9_8A_D9_84-_D8_A7_D9_84_D8_AA_2adb0921,en,What is the name of the Saudi entity responsible for cybersecurity matters?,"et ee ‏ب""‎ i ‏الو‎ 5"" iu
+pul c ill ‏للآمن السيبراني وزارة‎ 1 1
+Ministry of Education National Cybersecurity Authority én 1
+- | ee
+Leer
+Gai ‏يد‎ ٠
+“een ‏وك‎ ne ‘ 6
+: > 7
+4 = ‏وى‎ 4٠
+‏ود‎ 2 1 0
+. : ney +
+83 ‏اعلا ل‎
+| > . t ee)
+ei Diy . =
+> ‏امس‎ efi; inn) 1
+4 te pal
+df ie /
+‏""ب""‎ ; 1 reali 7 ‏و‎
+‎5 8"
+1692,scyberedu_en,en,What are the required knowledge units that students must complete before graduation under the Saudi Cybersecurity Higher Education Framework?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice: ‏لت‎
+‎e Cybersecurity Foundations (CSF)
+e Cybersecurity Design Principles (CDP)
+e IT Systems Components (ISC)
+e Basic Cryptography (BCY)
+e Basic Networking (BNW)
+e Basic Scripting and Programming (BSP)
+e Network Defense (NDF)
+e Opera"
+664,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What are the specific requirements for encrypting data at rest and in transit for IoT devices according to the National Cryptographic Standards (NCS-1:2020)?,"biecti To ensure adequate use of cryptographic capabilities to secure data transactions and exchange
+objective
+) between IoT devices. Guidelines
+2-7-1 Define, document, approve, and implement cybersecurity requirements for IoT data following
+the National Cryptographic Standards (NCS-1:2020) and revi"
+1738,scyberedu_en,en,What are the specific legal and regulatory issues that students should illustrate when applying digital forensics techniques in a cyber investigation according to the Saudi Cybersecurity Higher Education Framework?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Digital Forensics (DFS)
+Description This KU provides knowledge of forensics techniques and skills
+to apply them for investigation activities in a way that complies
+with the legal requirements. Topics The following topics must be i"
+1704,scyberedu_en,en,What is the academic level corresponding to the Doctoral program in cybersecurity as defined in the Saudi National Qualifications Framework?,"e Communicate in numer-
+ous forms to disseminate
+and promote original
+knowledge and new in-
+sights; and conduct sci-
+entific and professional
+dialogue with peers, spe-
+cialized groups and the
+society at large. e Process and_ interpret
+quantitative and quali-
+tative data; and use it in
+highly complex"
+2212,scywf_en,en,What specific knowledge and skills are required for a Systems Security Development Specialist under the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+Job Role Details
+Job Role Name Systems Security Development Specialist
+Job Role ID CARD-CRD-001
+Category Cybersecurity Architecture, Research and Development
+Specialty Area Cybersecurity Research and Development
+Job Role Designs, deve"
+1567,otcc_en,en,What specific justifications must be documented and approved when cybersecurity requirements cannot be implemented within the OT/ICS environment?,"— Sharing Indicator: Operational Technology Cybersecurity Controls
+1-3-1-2 Cybersecurity risk assessment for OT/ICS assets must
+be conducted periodically while ensuring to include risks associ-
+ated with signing contracts and agreements with OT/ICS related ‏يد يب‎ wv
+third-party organizations and/or"
+1570,otcc_en,en,What specific steps should be taken to ensure that cybersecurity requirements are integrated into the change management process for the organization's OT/ICS systems?,"vv
+Cybersecurity requirements within the organization's OT/ICS
+1-4-2 project management must be reviewed, and their implementation viv
+effectiveness is measured and evaluated periodically. 1-5 Cybersecurity in Change Management
+To ensure that cybersecurity requirements are included in change managem"
+2204,scywf_en,en,What is the job role and description of the Threat Intelligence Analyst under the Saudi Cybersecurity Workforce Framework?,"mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+No Specialty Job Role Job Role ID Description
+Area
+30 Cybersecurity PD-IR-001 Investigates, analyzes and responds to
+Incident cybersecurity incidents. Responder
+31 Digital Forensics | PD-IR-002 Collects and analyzes digital evidenc"
+84,cgesp-en,en,Should e-commerce service providers review and change their web browser and app default settings to prevent saving social media login credentials and customer information?,"Cybersecurity Guidelines for E-commerce Service Providers Sharing Indicator: White  - - Change your default security settings Review and change the default preferences in your web browser and
+e-commerce apps to avoid saving social media login credentials, customer
+information and autofill retrieval."
+394,071d52fc-014b-4f15-84ce-1289f3f5c3a9_Operational-Technology-Cybersecurity-Contro_4409cda6,en,What is the specific control ID for the Identity and Access Management standard related to user access control?,"OTCC Methodology and Mapping Annex Sharing Indicator: Cybersecurity Defense
+2-١ Asset Management Standards
+7
+011 DOEC2M2 NERCCIP NOG 104 NIST NISTCSF  62443-3-3 62443-3-2 62443-2-1
+Control ID SP800-
+53/82
+2-1-1
+2-1-1-1 CM 1.1 - SR 1.2 ID.AM-1 CM-8 ISBR 17 002-R1, -
+002-R2,
+003-R1,
+003-R2
+2-1-1-2 CM "
+327,osmacc-en,en,What are the specific cybersecurity controls that organizations must implement for their social media accounts as outlined in OSMACC-1:2021?,"Organizations’ Social Media Accounts Cybersecurity Controls Sharing Notice: Introduction The National Cybersecurity Authority (referred to in this document as “The Authority”) has developed
+the Organizations Social Media Accounts Cybersecurity Controls (OSMACC - 1: 2021) after conducting
+a study of "
+593,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,What is the binding language for interpreting the document?,"In the Name of Allah,
+The Most Gracious,
+The Most Merciful DISCLAIMER: The following controls will be governed by and implemented in
+accordance with the laws of the Kingdom of Saudi Arabia, and must be subject
+to the exclusive jurisdiction of the courts of the Kingdom of Saudi Arabia. Therefore, the"
+1696,scyberedu_en,en,What are the specific skills and values that cybersecurity professionals in the Saudi Cybersecurity Higher Education Framework are expected to demonstrate?,"suum Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+2.5 Higher Diploma for Non-IT Background? 2.5.1 Program Descriptors
+Knowledge Skills Values, Autonomy and
+Responsibility
+. A range of specialized|+ Apply special principles,| + Adhere to the ethics and
+theoretical knowledge meth"
+1746,scyberedu_en,en,What are the specific topics that must be included in the Forensic Accounting Knowledge Unit according to the Saudi Cybersecurity Higher Education Framework?,"mums Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Forensic Accounting (FAC) Description This KU provides knowledge about forensic techniques for to apply them. Topics The following topics must be included in this KU:
+1. Investigative Accounting
+2. Fraudulent Financial Reporting"
+1556,otcc_en,en,What are the specific cybersecurity controls required for Industrial Control Systems (ICS) to protect critical infrastructures in accordance with the OTCC-1:2022 standard and the Royal Decree number 57231?,"This demands the necessity to have
+cybersecurity controls tailored for Industrial Control Systems (ICS) in order to increase the
+protection of critical infrastructures that operates or depends on these systems with accordance
+to international best practices. From this prospective, Operational Techno"
+2022,scywf_ar,en,What are the specific responsibilities of a Cybersecurity Advisor role within the organizational structure?,"وقيادة ‎Ga!‏ السيبراني
+سواء على مستوى ‎BYP‏ او وحدة او وظيفة على المستوى المؤسسى. ‎T0001, T0002, 10008, T0016, T0020, T0023, 10048, 10053, T0059, T0061,‏
+‎T0063, T0115, T0137, T1500, T1502, T1503, T1504, T1505, T1506, T1507,‏
+‎T1508, T1509, T1510, T1511, T1512, T1514, T1515, T1516, T1517, T1518, |‏
+"
+914,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What is the requirement for screening or vetting candidates of personnel with access to Cloud Service sensitive functions?,"1-4-P-1-2 Screening or vetting candidates of personnel working inside the Kingdom
+who have access to Cloud Technology Stack, periodically. 1-4-P-1-3 Cybersecurity policies as a prerequisite to access to Cloud Technology
+Stack, signed and appropriately approved. 1-4-P-2 In addition to Subcontrols in "
+86,cgesp-en,en,What steps should e-commerce service providers take to defend their network perimeter according to the White Cybersecurity Guidelines?,"WO Sharing Indicator: White Cybersecurity Guidelines for E-commerce Service Providers Defend Your Network Apolicebitity Disable unnecessary services on systems Many devices such as computers and wireless routers come with extra
+services and features which are often not used. Similarly, many operatin"
+1687,scyberedu_en,en,What does the Saudi Cybersecurity Higher Education Framework require students in the Bachelor (Cybersecurity Track) to demonstrate in terms of ethical standards and responsible citizenship?,"suum Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+2.2 Bachelor (Cybersecurity Track)°®
+2.2.1 Program Descriptors
+Knowledge Skills Values, Autonomy and
+Responsibility
+e Knowledge of a broad|e« Analyze and evaluate var-|+ Adhere to the ethics and
+and in-depth range of ba- ious co"
+1753,scyberedu_en,en,What specific techniques do students need to demonstrate to complete the Hardware Reverse Engineering Knowledge Unit?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Hardware Reverse Engineering (HRE) Description This KU provides knowledge, abilities and skills to determine
+the functionality, input, output and stored data of given
+hardware components using reverse engineering procedures
+and te"
+1084,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific cybersecurity requirements that must be included in the project management methodology and procedures of the entity's information and technology projects?,"1-5-4 updated at planned intervals (or in case of changes to the relevant legislative and
+regulatory requirements and standards). Changes shall be documented and approved. 1-6 Cybersecurity in Information and Technology Project Management
+To ensure that cybersecurity requirements are included in the"
+91,cgesp-en,en,How can an e-commerce business prevent mass registrations through spam campaigns during user registration?,"Maintaining proper audit trails and security logs will also
+help in recovering lost transactions, highlighting security weaknesses and potential points of illegal intrusion for your e-commerce business. Use email activation and captcha for user registration To avoid mass registrations done by spam c"
+682,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What is the full term for TLP in the Cybersecurity Guidelines for Internet of Things?,"Cybersecurity Guidelines for Internet of Things Appendix (C): List of the Abbreviations Table (4) below highlights some of the abbreviations and their meanings which were used in this document. Abbreviations Full Term CCC Cloud Cybersecurity Controls
+CGIoT Cybersecurity Guidelines for Internet of Th"
+1709,scyberedu_en,en,What are the key secure-by-design principles that students should be able to express and explain upon completing the Knowledge Unit?,"mums Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Cybersecurity Design Principles (CDP) Pdi This KU includes the knowledge and skills of the fundamentals
+of secure-by-design for designing secure and reliable cyber
+systems. Topics The following topics must be included in this KU"
+2287,scywf_en,en,What are the specific tasks involved in developing learning objectives and goals as outlined in the regulatory document?,"72017 Develop or assist in the development of individual or collective learning and development, training
+and skills or knowledge gap remediation plans. T2018 Develop or assist in the development of learning objectives and goals. T2019 Develop or assist in the development of on-the-job training mate"
+1137,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific requirements for cryptographic standards and secure key management under the Essential Cybersecurity Controls?,"Essential Cybersecurity Controls
+eo — rrr
+Version Date
+ECC - 2: 2024 2024
+Update type Section Previous text Updated text Rationale
+information must include at Data and Artificial
+least the following: Intelligence
+2-7-3-1 Data and Authority mandates,
+information ownership. entities must refer to
+‏جد‎"
+647,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What are the main domains and subdomains covered in the Cybersecurity Guidelines for Internet of Things?,"Cybersecurity Guidelines for Internet of Things
+__ oe CGloT Domains and Structure Main domains and subdomains of CGloT Figure (1) below shows the main domains and subdomains of Cybersecurity Guidelines for Internet Cybersecurity
+Governance Cybersecurity
+Defense 3.Cybersecurity
+Resilience Third-Party"
+2317,scywf_en,en,What specific tasks are required for conducting feasibility studies and evaluating new technologies in IT and ICS/OT environments?,"T4008 Implement the security controls specified in a security plan or other system documentation in IT
+and ICS/OT environments. 74009 Work with agile team members to conduct fast prototyping, feasibility studies and evaluation of new
+technologies in IT and ICS/OT environments. T4010 Design systems a"
+2371,scywf_en,en,"What is the ability to develop strategy, policy, and related documentation to support business strategy and maintain compliance with legislative, regulatory, and contractual obligations?","The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+Table 12: Abilities Descriptions
+KSA ١0 KSA Description A0001 Ability to analyze vulnerability and configuration data to identify cybersecurity issues. ‎Ability to communicate cybersecurity concepts and practices in an effective manne"
+1107,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the specific requirements for reviewing the implementation of cybersecurity incident and threat management standards within an entity?,"Essential Cybersecurity Controls
+eo — rrr Requirements for cybersecurity incident and threat management shall include the
+following as a minimum:
+2.13.3.1 Cybersecurity incident response plans and escalation procedures. 2.13.3.2 Cybersecurity incident classification. 2-13-3
+2.13.3.3 Reporting cybers"
+2261,scywf_en,en,What steps should be taken to develop secure data management capabilities for a mobile workforce?,"T0090 Develop secure data management capabilities to support a mobile workforce. 70091 Enable applications with public keying, using existing public key infrastructure libraries and
+incorporating certificate management and encryption when appropriate. T0092 Analyze an organization's cybersecurity po"
+1640,scyber-edug_ar,en,What is the status of coverage for the SCyber-Edu Core Knowledge Units?,"Cy ‏.م‎ 0 c 0 ‏.م‎ 7 Pry
+| ‏السيبراني (سايبر-التعليم) إشارة المشاركة:‎ wot! ‏الدليل الإرشادي للمواءمة مع الإطار السعودي للتعليم العالي في‎
+1_7
+,
+1 0
+\)\ 2
+har
+Ply epee a atl Raed ‏انهيدة انود‎
+‏لاا‎ Cyboneenrty Aistuaty
+_| Previous | Alignment (3 - 4)
+‏ند‎
+‎2 ‏ا‎ ;
+' 1
+' '
+' ' 8 80 8 80 8 8 80 8
+‏ا "
+2185,scywf_en,en,What is the restriction on sharing information classified as Red under the Traffic Light Protocol?,"Traffic Light Protocol (TLP):
+. ‏سس للللللللللاااللللللاأاأاتللللللللللال لل لللللللاللبردد٠دا ج64‎ 1115 marking pr 115 widel 1 around th rid. It has four colors (traffic ligh © = Red - Personal, Confidential and for Intended Recipient Only
+The recipient has no rights to share information classified"
+2381,scywf_en,en,What is the ability to interpret and translate stakeholder cybersecurity requirements into operational controls and actions?,"mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+KSA ١0 KSA Description A2517 Ability to identify external partners with common cybersecurity interests. A2518 Ability to identify and describe an organization's cybersecurity vulnerabilities. A2519 Ability to determine tools and me"
+2299,scywf_en,en,"What steps should be taken to ensure that all employees, including senior management, are educated about privacy compliance and the consequences of noncompliance?","Develop and maintain appropriate communications and training to promote and educate all T3046 employees including senior management regarding privacy compliance and the consequences of
+noncompliance. T3047 Ensure that privacy compliance monitoring activities are carried out on an ongoing basis. T304"
+77,cgesp-en,en,What are the requirements for creating strong passwords for e-commerce service providers?,"Cybersecurity Guidelines for E-commerce Service Providers Sharing Indicator: White  - - Y= 1.Use Strong Authentication apa eabitty Avoid using predictable, shared or old passwords In order to protect your e-commerce accounts as a service provider, use
+strong passwords that are:
+e Made up of random s"
+196,ncs_en,en,What key derivation functions are accepted for use in cryptographic systems according to the National Cryptographic Standards Sharing Notice?,"The National Cryptographic Standards Sharing Notice: 3.5 Key Derivation Functions (KDF)
+Accepted key derivation functions: ¢ RFC 5869 (HKDF)’*. IKE-v2-KDF*. ¢ TLS-v1.2-KDF’. ¢ X9.63-KDF’. KDFs must comply with one of the following: ¢ NIST-800-56 ‏قلط‎ KDF (Single Step)’. ¢ NIST-800-56 © KDF (Extract"
+1089,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What specific steps should the entity take to ensure that personnel are trained in securing email services against phishing threats?,"Essential Cybersecurity Controls
+oo rrr 1-10 Cybersecurity Awareness and Training Program
+To ensure that the entity’s personnel have the required security awareness, are aware alec of their cybersecurity responsibilities, and are equipped with the required cybersecurity skills, qualifications, and t"
+2202,scywf_en,en,What is the job role responsibility of a Cryptography Specialist under the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: a
+2 Protection and Defense (PD) Job Roles
+Table 6 describes the job roles in the Protection and Defense category. Table 6: Protection and Defense (PD) Job Roles
+No Specialty Job Role Job Role ID Description
+Area
+22 Cybersecurity PD-D-001"
+208,ncs_en,en,What is the expected timeline for the development and issuance of international standards for Post-Quantum Cryptography?,"Even though quantum computers with enough qubits are not yet known to be available
+or used commercially, the risk they impose on the confidentiality of encrypted data is
+significant. Such a risk is acknowledged and it makes it very important to consider Post- Quantum Cryptography. However, no intern"
+83,cgesp-en,en,Does the e-commerce platform need to comply with GDPR if it has customers in the EU?,"‎Follow data minimization principles to reduce the amount and type of
+consumers’ data you collect and keep. If you choose to store your customer's
+payment data (e.g., credit card details) on your e-commerce platform, make
+sure to apply strict cybersecurity controls (e.g., limited access, encryption)"
+1122,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What is the process for transferring data that is no longer actively used to a separate storage device for long-term retention?,"Data and information Classification sensitivity levels are set according to predefined categories, where data
+and information is created, modified, improved, stored, or transmitted. The classification level is an indicator of the value or significance of data
+and information to the entity. The proce"
+2269,scywf_en,en,What specific steps should be taken to ensure that new systems and architectures align with the organization's cybersecurity guidelines?,"70526 Ensure that acquired or developed systems and architectures are consistent with organization's
+cybersecurity architecture guidelines. T0527 Translate proposed capabilities into technical requirements. 70528 Work with agile team members to conduct fast prototyping, feasibility studies and evalu"
+2352,scywf_en,en,Does the document specify the requirement for skill in conducting forensic analyses across multiple operating systems?,$0018 Skill in using scientific rules and methods to solve problems. S0019 Skill in using virtual machines. S0020 Skill in conducting forensic analyses in multiple operating system environments. $0021 Skill in configuring and utilizing computer protection tools. 95 Document Classification: Unclassif
+1707,scyberedu_en,en,What is the specific requirement for the system to be compliant with the Saudi cybersecurity regulations regarding the handling of personal data?,"= 2 3 59 = ame
+7 © 5 @ ‏لكا‎ to = 2S
+38 7 8 a 2 = = 3 os
+0 Cc ‏بن يلة = - بت‎ => =
+08 a c ‏مه ب © © د‎ 2ٍ fa)
+a o N +o 2 © 3 7 9
+‏ثم‎ = o 9 ‏جح © ه م‎ © 5 3
+3 0 ‏ب‎ Dem - ‏ل م‎ 6
++ 0 = 5 © + < SG
+na o= 60 © 0 eS c
+. Oo 3 st O ‏جم‎ 5 © t
+=o Se < “SF ‏د ته كر‎ @
+ao 2 3 986 wv
+[om 7 2 © 9 ‏بي‎ re)
++ Cc"
+1602,otcc_en,en,What should be included in the Disaster Recovery Plan (DRP) regarding OT/ICS cybersecurity requirements?,"Viv oY
+Analysis (BIA), Recovery Time Objectives (RTO), and Recovery
+Point Objectives (RPO). 3-1-1-4 OT/ICS cybersecurity requirements must be incorporat-
+ed into the Disaster Recovery Plan (DRP) including cybersecuri- ‏مذ الاي‎
+ty-related disaster scenarios, system failure handling procedures,
+and o"
+901,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What are the specific components and structure of the Cloud Cybersecurity Controls as outlined in the document?,"Cloud Cybersecurity Controls
+oO rrr
+Introduction
+The National Cybersecurity Authority (referred to in this document as “NCA”) updating the
+Cloud Cybersecurity Controls (CCC - 2: 2024) after conducting a comprehensive study of
+multiple national and international cybersecurity frameworks, standards, a"
+1552,otcc_en,en,What is the binding language for interpreting the document?,"DISCLAIMER: The following controls will be
+governed by and implemented in accordance
+with the laws of the Kingdom of Saudi Arabia,
+and must be subject to the exclusive jurisdiction
+of the courts of the Kingdom of Saudi Arabia. Therefore, the Arabic version will be the
+binding language for all matter"
+619,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,What is the definition of Data Leakage Prevention Technologies as stated in the document?,Data Cybersecurity Controls Sharing Indicator: Appendix (B): Terms and Definitions Table (2) below highlights some of the terms and their definitions which were used in this document. Data Leakage Prevention ‘Technologies used to protect sensitive data from Technologies (DLP) unauthorized disclosure
+1133,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What is the full meaning of ECC in the context of the Saudi regulatory/cybersecurity document?,"Essential Cybersecurity Controls
+ee
+Appendix (B): List of the Abbreviations
+Table (3) below shows some of the abbreviations and their meanings which are used in this
+document. TABLE 3 LIST OF ABBREVIATIONS
+APT Advanced Persistent Threat
+BCM Business Continuity Management
+BYOD Bring Your Own Device
+C"
+987,6e58f002-1031-4116-b1d4-fd26c9840e7d__D9_85_D9_84_D8_AD_D9_82-_D8_A7_D9_84_D9_85_c75f9f66,en,What are the specific standards and references related to asset management in the context of cybersecurity governance for Saudi organizations?,"0 تعزيز الأمن السيبراني
+‎٠-6‏ إدارة الأصول
+رقم الضابط  ‎NIST 6 NIST NOG 104 NERCCIP DOEC2M2‏ 62443-3-3 62443-3-2 62443-2-1
+‎SP800-‏
+‏53/82
+‏انا ل
+‎CM-8 ID.AM-1 SR 1.2 CM 1.1 l-l-l-r‏ 7 ,002-81
+‎002-R2,‏
+‎003-R1,‏
+‎003-R2‏
+‎002-R1,  ISBR17 CM-8 ID.AM-1 SR 1.2 CM 1.1 r-l-l-r‏
+‎002-R2,‏
+‎003-R1,‏
+‎003-"
+2232,scywf_en,en,What are the specific tasks and knowledge areas required for a Cybersecurity Defense Analyst under the Protection and Defense category in the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+3.1.4 Category Group: Protection and Defense (PD)
+Job Role Details
+Job Role Name Cybersecurity Defense Analyst
+Job Role ID PD-D-001
+Category Protection and Defense
+Specialty Area
+Job Role Uses data collected from cyber defense tools t"
+1614,otcc_en,en,What is the full term for BRP in the context of operational technology cybersecurity controls?,"Operational Technology Cybersecurity Controls Sharing Indicator: |
+Appendices
+oo
+Appendix (B): List of the Abbreviations
+Table (4) below highlights some of the terms and their definitions which were used in this
+document. Abbreviations Full term
+Business Continuity Management. Business Continuity Pl"
+1750,scyberedu_en,en,What are the specific hardware and firmware security topics that must be included in the Knowledge Unit under the Saudi Cybersecurity Higher Education Framework?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Hardware/Firmware Security (HFS)
+Description This KU provides knowledge of hardware/firmware components
+and the related security issues. Topics The following topics must be included in this KU: Physical Vulnerabilities: Unused/Uns"
+680,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What is the definition of Multi-Factor Authentication (MFA) in the context of cybersecurity?,"Data transmitted from one location to another, by any type of network; such as: Internet, private network, etc. Internet of Things Sensors and devices (“things”) that are connected to the internet and/or other
+networks, which helps to create value based on exchanged data such as easing jobs Multi-Fa"
+5624,6dbdd8f1-11e7-457b-8934-7fb9939cdaa7_STANDARD_Patch_Management_Template_en,en,Who is responsible for reviewing the Patch Management Standard at least once a year?,"Patch Management Standard
+Template
+Roles and Responsibilities
+1- Standard Owner: Shead of the cybersecurity fuinction>
+2- Standard Review and Update: <¢ybersecurity function>
+3- Standard Implementation and Execution: Sinformation technology
+function>
+4- Standard Compliance Measurement: cybersecurity"
+1600,otcc_en,en,What specific measures must be implemented to detect and respond to potential physical intrusions into OT/ICS systems?,"2-13-1-2 Real-time physical intrusion detection alarms and_ sur-
+veillance equipment, and proper mechanisms must be imple- v
+mented to recognize potential intrusions and apply the approved
+response actions. 2-13-1-3 Physical access points and perimeter to sensitive OT/ICS ‏مي ابي ااي‎
+areas shall be"
+1074,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,Are the controls under the Subdomain (4-2) relating to Cloud Computing and Hosting applicable and binding on all entities in the Kingdom of Saudi Arabia?,"Essential Cybersecurity Controls
+o——— rrr
+Scope of Work and Applicability
+ECC Scope of Work These Controls are applicable to government agencies in the Kingdom of Saudi Arabia
+(including ministries, authorities, establishments and others) and their affiliated companies and
+entities (inside and outsi"
+1740,scyberedu_en,en,What are the key fundamentals of deep learning and deep network architectures that students should be able to explain after completing the KU?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Deep Learning (DLL)
+and application of modern neural networks. Topics The following topics must be included in this KU: Neural Networks: Binary Classification, Logistic
+Regression, Logistic Regression Cost Function, Gradient
+Desce"
+2196,scywf_en,en,What does the Leadership (L) specialty area in the Saudi Cybersecurity Workforce Framework involve?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ———
+Table 2: SCyWF Specialty Areas
+Category Specialty Description
+Area
+Cybersecurity Designs and oversees the development and
+Architecture (CA) | implementation of cybersecurity systems and/or
+the cybersecurity components of IT systems a"
+1946,scywfg_en,en,What should be included in the internal document that documents the alignment process between the identified cybersecurity job roles in the SCyWF framework and the existing cybersecurity jobs at the organization?,Alignment Guide for the Saudi Cybersecurity Workforce Framework «SCyWF» Sharing Notice: — Document the alignment process: _ Preparing an internal document to be approved by the organization's authority holder. The document should include the mapping between the identified cybersecurity job roles wit
+931,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What are the specific subcontrols that a Cloud Service Provider (CSP) must implement for cybersecurity incident and threat management?,"Cloud Cybersecurity Controls
+ae
+2-12 Cybersecurity Incident and Threat Management
+Objective | Ensure timely identification and detection of cybersecurity incidents and their effective
+management and proactive response to cybersecurity threats to prevent or minimize
+‏ل‎
+‎2-12-P-1 | 10 addition to sub"
+1775,scyberedu_en,en,What specific privacy practices related to data sharing and preservation are required under the Saudi Cybersecurity Higher Education Framework?,"=m Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Privacy (PRI) Description This KU provides knowledge and skills about the concepts and
+principles of privacy, methods of assessing their preservation,
+assistive techniques in privacy, best practices, standards and
+relevant privacy"
+681,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What is the process used to identify security-related weaknesses in the source code of IoT devices?,"Cybersecurity Guidelines for Internet of Things
+lem through measures such as: continuous testing, authentication safeguards and adherence to best programming and design practices. Source Code Review A process that is conducted manually/ automatically to identify security-related
+weaknesses (flaws) i"
+1071,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,What are the minimum cybersecurity requirements that national entities must follow to ensure ongoing compliance with the Essential Cybersecurity Controls?,"57231, dated 10/11/1439H., which states that “all government agencies must raise the level of
+their cybersecurity to protect their electronic networks, systems and data, and to abide by the
+NCA’s policies, frameworks, standards, controls, and guidelines in this regard”. From this perspective, the NC"
+152,cybersecurity_incident_and_threat_management_standard_template_v1.0,en,What specific actions is the team expected to take regarding intrusion detection and how will they improve their incident analysis?,"e Intrusion Detection: the team is expected to analyze
+incidents more quickly and accurately, based on the
+knowledge it gains from_ intrusion detection
+technologies. e Advisory Distribution: the team may issue advisories
+within the <entity name> regarding new vulnerabilities
+and threats. Advisories "
+2307,scywf_en,en,"Does the regulation require the fusion of network, infrastructure, and digital evidence analysis results with findings from other criminal investigations?","T5007 Ensure that chain of custody is followed for all acquired digital media in accordance with national
+law or organizational policies as applicable. T5008 Fuse results from analysis of networks, infrastructure and digital evidence with results from other
+criminal investigations and operations. T5"
+14773,Sixtieth_Annual_Report-EN,en,What is the requirement for data localization in the context of cloud service providers operating within Saudi Arabia?,"|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |"
+1588,otcc_en,en,Are encryption mechanisms required for mobile devices authorized to access OT/ICS assets?,"2-5-1-5 Encryptions mechanisms must be used for mobile devic- Vv
+es authorized to access the OT/ICS assets. With reference to the ECC control 2-6-4, the cybersecurity re- 2-5-2 quirements for mobile devices security in OT/ICS environment
+must be reviewed, and their implementation effectiveness is me"
+1116,86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf_25f50dbe,en,"What is the definition of ""Authorization"" in the context of cybersecurity policies?","Attack Any kind of malicious activity aimed at gaining unauthorized access
+to, collecting, disabling, preventing, destroying, or sabotaging
+information system resources or the information itself. Audit Independent review and examination of records and activities, in
+order to assess the effectiveness"
+2189,scywf_en,en,What is the purpose of the SCyWF in aligning cybersecurity workforce activities with national frameworks?,"The main objective of the SCyWF is to serve as a reference model and a guideline for preparing,
+developing, recruiting, promoting and managing the cybersecurity workforce. It provides a common
+lexicon that improves communication and content development for talent management activities. It
+also helps"
+641,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What are the 101 cybersecurity principles for manufacturers outlined in the CGIoT framework?,"Table of Contents Executive Summary Introduction Scope of Work and Applicability CGIoT Domains and Structure Cybersecurity Guidelines for Internet of Things List of Figures Figure 1: CGIloT Main Domains and Subdomains
+Figure 2: Guidelines Coding Scheme Figure 3: CGIoT Structure List of Tables Table "
+1608,otcc_en,en,What is the definition of a Demilitarized Zone in the context of Operational Technology/Industrial Control Systems cybersecurity?,"‎Sharing Indicator: Operational Technology Cybersecurity Controls‏ ان""
+‎Terminology Definition‏
+‎oo, A measure of the degree to which an organization depends on the OT/ICS‏
+‎Criticality aoe : :‏
+‎for the success of a mission or of a business function.‏
+‎Any system or network whose failure, unauthori"
+1749,scyberedu_en,en,What are the key topics that must be included in the KU related to hardware architecture standards and potential vulnerabilities?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice: a
+Hardware Architecture (HAA)
+architectures standards and potential vulnerabilities. Topics The following topics must be included in this KU:
+1. Standard Architectures
+2. Hardware Interface Standards
+3. Common Architectures
+Learning "
+1559,otcc_en,en,What is the process for evaluating and ensuring compliance with the OTCC:1-2022 controls?,"Operational Technology Cybersecurity Controls Sharing Indicator: |
+Implementation and Compliance
+is To comply with item 3 of article 10 of NCA’s mandate and per the Royal Decree number 57231, dated 10/11/1439H, all organizations within the scope of these controls must comply with all applicable cybe"
+1728,scyberedu_en,en,What specific skills should students acquire by completing the Knowledge Unit on Analytical Tools (ATT) in the Saudi Cybersecurity Higher Education Framework?,"suum Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Analytical Tools (ATT)
+wid This KU provides knowledge, skills and ability to recognize,
+monitor, block, divert and respond to cyberattacks. Topics The following topics must be included in this KU: Performance Measurements Data A"
+1691,scyberedu_en,en,What are the admission requirements for the cybersecurity program?,"constructively, with the
+topics in the field of cy-|+ Perform a wide range of ability to lead, practice
+bersecurity. tasks and procedures us- entrepreneurship and
+ing cybersecurity tools in perform a wide range of
+various complex opera- tasks with responsibility. tions; innovate and ‏ا حصن‎ ٠ Partic"
+2255,scywf_en,en,What specific tasks are involved in performing secure programming to identify potential flaws in code?,"T0032 Perform real-time forensic analysis. T0033 Perform timeline analysis. 70034 Perform incident response tasks to support deployable incident response teams including forensic
+collection, intrusion correlation, tracking, threat analysis and system remediation. T0035 Perform secure programming and"
+2201,scywf_en,en,What are the responsibilities of the Data Protection Officer under the LDP framework?,"21 Privacy/Data GRCL-LDP-002 | Studies personal data schemes and the
+Laws and Data Protection Officer applicable privacy laws and regulations. Protection Analyzes privacy risks. Develops and oversees
+(LDP) the implementation of an organization’s privacy
+and data protection compliance program and
+int"
+2243,scywf_en,en,What are the specific tasks and knowledge areas required for a Threat Intelligence Analyst under the Saudi Cybersecurity Workforce Framework?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+Job Role Details Job Role Name Threat Intelligence Analyst Job Role ID PD-TM-001 Category Protection and Defense Specialty Area
+Collects and analyzes multi-source information about cybersecurity threats to develop Job Role deep unders"
+2386,telework_cybersecurity_controls-en,en,What is the binding language for interpreting this document?,"Disclaimer: The following controls will be governed by and implemented
+in accordance with the laws of the Kingdom of Saudi Arabia, and must be
+subject to the exclusive jurisdiction of the courts of the Kingdom of Saudi
+Arabia. Therefore, the Arabic version will be the binding language for all
+matter"
+1718,scyberedu_en,en,"What are the specific best practices for aligning with cybersecurity legislation, controls, and standards?","The Saudi Cybersecurity Higher Education Framework Sharing Notice:
+Policy, Legal, Ethics and Compliance (PLE)
+Description This KU provides knowledge related to cybersecurity laws,
+standards, regulations, guidelines, policies and ethics. Topics The following topics must be included in this KU: Best P"
+1565,otcc_en,en,"What specific cybersecurity policies and procedures must be documented, approved, and implemented for OT/ICS systems or assets according to the regulatory requirements?","| Sharing Indicator: Operational Technology Cybersecurity Controls
+Operational Technology Cybersecurity Controls (OTCC)
+""=
+© 2 Cybersecurity Governance
+1-1 Cybersecurity Policies and Procedures
+To ensure that OT/ICS cybersecurity requirements are documented, communicated,
+Objective and complied with"
+1786,scyberedu_en,en,What specific skills and techniques should students master through the Software Reverse Engineering Knowledge Unit?,"mums Sharing Notice: The Saudi Cybersecurity Higher Education Framework
+Software Reverse Engineering (SRE)
+Description This KU provides skills and ability to perform reverse
+engineering of executable code to determine its function, effect
+and implementation details. Topics The following topics must "
+75,cgesp-en,en,What is the name of the Cybersecurity Guidelines for E-commerce Consumers developed by the NCA?,"Cybersecurity Guidelines for E-commerce Service Providers Sharing Indicator: White  - - Relationship to Other National Cybersecurity Publications ()إلا7ا للللللللللللللللللللسلللللسل ‎OO‏ In addition to the CGESP, the NCA has also developed the Cybersecurity Guidelines for
+E-commerce Consumers (CGEC"
+678,207a41a9-febf-45ea-9517-5519e863028a_CGIoT-.pdf_39984665,en,What steps should manufacturers take to ensure that consumers are clearly informed about the need for a security update and the risks it mitigates?,"8 Ensure the capability to fail safely and securely is considered when developing critical loT
+devices. 9 | Build secure authentication capabilities in oT devices. 10 Minimize the time gap between discovering a vulnerability in 161 product and releasing
+the needed security patches. 10 Inform 101 pro"
+900,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What are the objectives and scope of the Cloud Cybersecurity Controls (CCC-1: 2020) document?,"Cloud Cybersecurity Controls
+oO rrr
+Executive Summary NCA’s mandates and duties fulfill the regulatory cybersecurity needs related to the
+development of cybersecurity national policies, governance mechanisms, frameworks,
+standards, controls, and guidelines, to support the important role of cybersecu"
+1698,scyberedu_en,en,What are the elective KUs required for students in the Saudi Cybersecurity Higher Education Framework?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice: ee
+e Cybersecurity Foundations (CSF)
+e Cybersecurity Design Principles (CDP)
+٠ IT Systems Components (ISC)
+e Cyber Threats (CTH)
+٠ Policy, Legal, Ethics and Compliance (PLE)
+Elective KUs are all remaining KUs. Students must complete "
+1598,otcc_en,en,"What specific steps must be taken to ensure that OT/ICS cybersecurity incident response plans are integrated with organizational plans like IT incident response, crisis management, and business continuity?","Controls
+In addition to subcontrols in the ECC Control 2-13-3, cybersecu-
+rity requirements for cybersecurity incident and threat manage-
+ment in OT/ICS must include, at a minimum, the following:
+2-12-1-1 OT/ICS cybersecurity incident response plans must be ‏بي اي يي‎
+integrated and aligned with org"
+2396,telework_cybersecurity_controls-en,en,Are cloud computing and hosting cybersecurity controls required for organizations that are currently using or planning to use cloud computing and hosting services?,"Applicability to implement these cybersecurity controls depends on the organization's business and its use of certain technologies. For example: e« Controls in subdomain 3-1 (Cloud Computing and Hosting Cybersecurity) are applicable and
+must be implemented by organizations currently using or plannin"
+609,1c2cfb9c-7788-4549-9f29-f337500f1787_Data-Cybersecurity-Controls-.pdf_38db4f89,en,What is the requirement for centrally managing BYOD devices using a Mobile Device Management (MDM) system and activating the remote wipe feature?,"Data Cybersecurity Controls Sharing Indicator: Reviewing the security configuration and hardening of systems used to At least every 6
+2-2-1-2 At least annually
+handle data as specified for each data months classification level. Reviewing and hardening the default
+configuration (e.g., default passwor"
+2376,scywf_en,en,"Can a system security officer collaborate effectively with enterprise architects and systems security engineers to apply security controls as system specific, hybrid, or common controls?","Ability to work with enterprise architects, systems security engineers, system owners, control ‎A0504 owners and system security officers to apply security controls as system specific, hybrid, or
+common controls. ‎A1000 Ability to tailor code analysis to assess application-specific concerns. ‎A1001 "
+390,071d52fc-014b-4f15-84ce-1289f3f5c3a9_Operational-Technology-Cybersecurity-Contro_4409cda6,en,What are the specific controls and sub-controls that organizations with L2 facilities are required to implement according to the OTCC document?,"When the organization has different OT/ICS
+facilities that are separated and isolated, the levels can differ. Thus, the applicability of
+the controls will differ. Each control and sub-control in OTCC document is associated with a specific level. The facility's level will determine the set of control"
+2272,scywf_en,en,What is the process for identifying and prioritizing essential system functions or sub-systems to support essential capabilities or business functions after a system failure or during a system recovery event?,"mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+TaskID ~~‘ Task Description 71021 Develop detailed security design documentation for component and interface specifications to
+support system design and development. 71022 Develop and test disaster recovery and continuity of operat"
+1710,scyberedu_en,en,What are the key IT system components and their main functions that students should be able to identify after completing this knowledge unit?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice:
+IT Systems Components (ISC) Peddie This KU provides general introduction to common information
+technology systems components and general cybersecurity
+implications associated with them. Topics The following topics must be included in"
+95,cgesp-en,en,What is considered an incident under the cybersecurity policies related to e-commerce services?,"E-commerce Service : ys :
+using e-commerce) or practitioner (person who is not bound by Provider : : : : commercial registration but using e-commerce). A compromise through violation of cybersecurity policies, accept-
+Incident able use policies, practices incident or cybersecurity controls or requir"
+1653,scyber-edug_eng,en,What is the process for preparing the final alignment report in the SCyber-Edu Alignment Process?,"‎Sharing Notice: Alignment Guide for the Saudi Cybersecurity Higher Education Framework (SCyber-Edu)‏ = وض
+‎SCyber-Edu Alignment Process:‏
+‎oo i_wMWWN~NSCSS@?:‏ ها
+وه
+| نص ص
+‎EON 2. Arbitration‏
+05
+‎Oj ie‏
+‎Review 2.2 Arbitration‏ 2.1
+‎The NCA reviews the updated alignment ¢ The NCA team shares the "
+1731,scyberedu_en,en,What are the key topics that must be included in the Cloud Computing knowledge unit according to the Saudi Cybersecurity Higher Education Framework Sharing Notice?,"The Saudi Cybersecurity Higher Education Framework Sharing Notice:
+Cloud Computing (CCO) Description This KU provides a general introduction to cloud computing technologies, services, models and security. Topics The following topics must be included in this KU:
+1. Virtualization Platforms
+2. Cloud S"
+338,osmacc-en,en,What should be done to verify and maintain consistency in an organization's social media accounts?,"2-2-1-1 Using social media accounts designated for organizations, not individuals. 2-2-1-2 Registering using official information (official specific social media email and official mobile number), and do not use personal information. Verifying organization’s social media accounts whenever possible a"
+2256,scywf_en,en,What specific actions should be taken when an application or system undergoes a major change according to the Saudi Cybersecurity Workforce Framework?,"mums 572/7170 Indicator: The Saudi Cybersecurity Workforce Framework
+TaskID ~~‘ Task Description T0039 Perform risk analysis whenever an application or system undergoes a major change. T0040 Analyze exercise results and system environment to plan and recommend modifications and
+adjustments. T0041 Pr"
+925,6d5408a3-d8e6-4e96-963b-2c7198e5b7c2_CCC-2-2024-EN-.pdf_68488660,en,What is the minimum requirement for the CSP regarding technical mechanisms and cryptographic primitives for strong encryption in accordance with the National Cryptographic Standards (NCS-1:2020)?,"Cloud Cybersecurity Controls
+‏بتْ'_""تتاسسسسسس ...تيه‎
+2-6-P-1-5 Providing CSTs with secure means to export and transfer data and
+pC virtual infrastructure. 2-6-T-1 In addition to Subcontrols in the ECC control 2-7-3, the CST shall cover the following
+additional Subcontrols for cybersecurity requirem"
+82,cgesp-en,en,What should e-commerce service providers do to protect their customers' financial data in accordance with Saudi cybersecurity and data protection laws?,"WO Sharing Indicator: White Cybersecurity Guidelines for E-commerce Service Providers ‎Minimize Impact of Data Breaches applicability‏ .3 وه ‎Back up your data ‎Consider backing up your critical data, which may include your business,
+social media and customer information. You can use external online"
+2294,scywf_en,en,What specific legal and regulatory guidance should cybersecurity professionals provide to management and clients regarding compliance with cybersecurity policies and relevant laws?,"The Saudi Cybersecurity Workforce Framework Sharing Indicator: ee
+TaskID ‘Task Description T3001 Interpret and apply laws, regulations, policies, standards, or procedures as necessary. 73002 Resolve conflicts in policies, standards, or procedures where they contradict applicable laws or
+regulations."

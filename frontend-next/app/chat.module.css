@@ -1,0 +1,212 @@
+.appBg {
+  min-height: 100vh;
+  background: radial-gradient(1200px at 20% 20%, #eef2ff 0%, rgba(255,255,255,0) 48%),
+    radial-gradient(900px at 80% 0%, #e0f2fe 0%, rgba(255,255,255,0) 52%),
+    linear-gradient(180deg, #f8fafc 0%, #ffffff 60%);
+  color: #0f172a;
+}
+
+.appShell {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 24px 48px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 24px;
+}
+
+@media (max-width: 900px) {
+  .appShell { grid-template-columns: 1fr; }
+}
+
+.chatSurface {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 22px 44px rgba(15, 23, 42, 0.07);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 600px;
+}
+
+.chatHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brandTitle {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+  color: #0f172a;
+}
+
+.chatThread {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background: #f8fafc;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: 65vh;
+  max-height: 65svh;
+  max-height: 65dvh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  overscroll-behavior: contain;
+  flex: 1;
+}
+
+.message {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.04);
+}
+
+.messageUser {
+  border-color: #c7d2fe;
+  background: #eef2ff;
+}
+
+.messageMeta {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #6b7280;
+  margin-bottom: 4px;
+}
+
+.messageBody {
+  margin: 0;
+  color: #0f172a;
+  line-height: 1.6;
+}
+
+.sourcesList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.sourceChip {
+  border: 1px solid #e5e7eb;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #f8fafc;
+  cursor: pointer;
+  font-weight: 600;
+  color: #1f2937;
+  font-size: 12px;
+}
+
+.sourceChipActive {
+  background: #ecfeff;
+  border-color: #67e8f9;
+  color: #0f172a;
+}
+
+.rightStack {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-self: start;
+}
+
+.railCard {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 18px;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.06);
+}
+
+.cardHead {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin-bottom: 10px;
+}
+
+.contextPreview {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 10px;
+  background: #fff;
+  min-height: 140px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  overflow-y: auto;
+}
+
+.contextMeta {
+  font-size: 13px;
+  color: #4b5563;
+  font-weight: 600;
+}
+
+.contextText {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #111827;
+}
+
+.chatInputRow {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.input {
+  flex: 1;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
+  background: #fff;
+  color: #0f172a;
+  font-size: 14px;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #a5b4fc;
+  box-shadow: 0 0 0 3px rgba(165, 180, 252, 0.25);
+}
+
+.sendBtn {
+  padding: 12px 20px;
+  border-radius: 10px;
+  border: none;
+  background: #4f46e5;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.sendBtn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.statusLine {
+  font-size: 13px;
+  color: #6b7280;
+  min-height: 18px;
+}
+
+.empty {
+  color: #9ca3af;
+  font-size: 14px;
+  text-align: center;
+  padding: 24px 0;
+}
